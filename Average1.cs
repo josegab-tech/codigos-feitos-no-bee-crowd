@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Average1
 {
     static void Main()
     {

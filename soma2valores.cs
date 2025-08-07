@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class soma2valores
 {
     static void Main()
     {
